@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const hum = document.getElementById('humidity');
   const fl = document.getElementById('feelslike');
 
-  const API_KEY = "96fef243de3a9781dc811dc41c3ad0d8";
+  const API_KEY = "....";
 
   getWeatherBtn.addEventListener('click', async () => {
     let city = cityInput.value.trim();
