@@ -45,4 +45,4 @@ script.js
 
 ## Author
 
-Kartik Nagarajan
+Yashes Kartik
