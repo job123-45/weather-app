@@ -34,6 +34,10 @@ styles.css
 script.js
 ```
 
+## API key safety
+
+The OpenWeather API key is used by browser-side JavaScript, so it is visible in source and network requests. Restrict it in the provider dashboard to the required APIs and exact site referrers before use. Do not commit an unrestricted key. For a key that must remain private, route requests through a server-side proxy.
+
 ## Future Improvements
 
 * Weather icons
